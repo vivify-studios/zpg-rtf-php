@@ -1,9 +1,9 @@
 {
-    "name": "lukeoliff/zpg-rtf-php",
+    "name": "vivify-studios/zpg-rtf-php",
     "description": "Package for ZPG Real Time Feed integration",
     "type": "library",
     "require": {
-        "php": "~7",
+        "php": "^7.4 || ^8.0",
         "league/json-guard": "^1.0",
         "league/json-reference": "^1.0",
         "guzzlehttp/guzzle": "^6"
@@ -26,6 +26,10 @@
         {
             "name": "Luke Oliff",
             "email": "luke@lukeoliff.com"
+        },
+        {
+            "name": "Ollie Lawson",
+            "email": "ollie@vivify.uk"
         }
     ]
 }

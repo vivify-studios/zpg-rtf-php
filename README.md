@@ -1,11 +1,6 @@
-I no longer have access to this API to continue working on the SDK. I am happy to transfer the project to someone. In the meantime, the project will be archived. Please nudge me on twitter.com/lukeocodes to discuss.
-
 # ZPG Real-time Listings Service for PHP
 
 [![Software License][ico-license]](LICENSE.md)
-[![Build Status][ico-travis]][link-travis]
-[![Coverage Status][ico-coverage]][link-scrutinizer]
-[![Code Quality][ico-scrutinizer]][link-scrutinizer]
 
 ## Todo (in order of priority)
 
@@ -19,7 +14,7 @@ I no longer have access to this API to continue working on the SDK. I am happy t
 ### Via Composer
 
 ```bash
-composer require lukeoliff/zpg-rtf-php
+composer require vivify-studios/zpg-rtf-php
 ```
 
 ## Certificate File
@@ -260,10 +255,4 @@ Please see [code of conduct](CODE_OF_CONDUCT.md) and [contributing guide](CONTRI
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
-[link-travis]: https://travis-ci.org/lukeoliff/zpg-rtf-php
-[link-scrutinizer]: https://scrutinizer-ci.com/g/lukeoliff/zpg-rtf-php/?branch=master
-
 [ico-license]: https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat
-[ico-travis]: https://img.shields.io/travis/lukeoliff/zpg-rtf-php/master.svg?style=flat
-[ico-coverage]: https://img.shields.io/scrutinizer/coverage/g/lukeoliff/zpg-rtf-php.svg?style=flat
-[ico-scrutinizer]: https://img.shields.io/scrutinizer/g/lukeoliff/zpg-rtf-php/master.svg?style=flat
